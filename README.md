@@ -8,6 +8,10 @@ Hi! My name is Robson Gomes! Are you ok? :smile:
   <img align="center" alt="Rob-SQL" height="50" widtg="50" src = "https://image.flaticon.com/icons/png/512/1088/1088856.png">
   <img align="center" alt="Rob-SQL" height="50" widtg="50" src = "https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">
   
+  
+  ---
+  <a href="https://www.linkedin.com/in/robsongomes-bi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   ![Snake animation](https://github.com/RobsonGomes1/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
   
