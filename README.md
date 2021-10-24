@@ -9,3 +9,4 @@ Hi! My name is Robson Gomes! Are you ok? :smile:
   <img align="center" alt="Rob-SQL" height="50" widtg="50" src = "https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">
   
 </div>
+  ![Snake animation](https://github.com/RobsonGomes1/RobsonGomes1/blob/output/github-contribution-grid-snake.svg)
