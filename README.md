@@ -11,8 +11,7 @@ Hi! My name is Robson Gomes! Are you ok? :smile:
   
   ---
   <a href="https://www.linkedin.com/in/robsongomes-bi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/RobsonGomes1/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
   
  
